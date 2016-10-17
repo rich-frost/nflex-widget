@@ -1,6 +1,6 @@
 def get(event, context):
     print 'hello test'
     return {
-    'html': '<img class="max-height" src="https://media.giphy.com/media/l0HlyLQsbvhciAuKA/giphy.gif"/>'
+    'html': '<img class="max-height" src="https://www.headforwards.com/wp-content/themes/head-forwards/images/bg/looe-1.jpg"/>'
     };
     pass
